@@ -1,0 +1,14 @@
+Find fraction of counts of positive, negative numbers and zeros against the count of an array.
+
+input [-4, 3, -9, 0, 4, 1]
+output [0.50, 0.33, 0.16]
+
+Explanation:
+3 positive 
+3/6 = 0.50
+
+2 negative
+2/6 = 0.33
+
+1 zero
+1/6 = 0.16
